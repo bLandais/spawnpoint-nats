@@ -3,7 +3,7 @@
 
 [![npm version](https://badge.fury.io/js/spawnpoint-nats.svg)](https://badge.fury.io/js/spawnpoint-nats)
 [![dependencies Status](https://david-dm.org/nodecraft/spawnpoint-nats/status.svg)](https://david-dm.org/nodecraft/spawnpoint-nats)
-[![Actions Status](https://github.com/bLandais/b2-cloud-storage/workflows/Test/badge.svg)](https://github.com/nodecraft/b2-cloud-storage/actions)
+[![Actions Status](https://github.com/{owner}/{repo}/workflows/Test/badge.svg)](https://github.com/nodecraft/b2-cloud-storage/actions)
 [![Greenkeeper badge](https://badges.greenkeeper.io/nodecraft/spawnpoint-nats.svg)](https://greenkeeper.io/)
 
 ## API
