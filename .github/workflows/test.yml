@@ -14,7 +14,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v1
         with:
-          node-version: ${{ matrix.node }} Test
+          node-version: ${{ matrix.node }}
       - run: npm install
       - run: npm test
       - run: npm run coverage
